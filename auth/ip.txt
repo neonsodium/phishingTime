@@ -1,0 +1,1596 @@
+IP: 117.250.71.189
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-18 00:56:08
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: WhatsApp/2.2335.9 N
+Accept-Language: en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-18 00:56:24
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: WhatsApp/2.2335.9 N
+Accept-Language: en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-18 00:56:25
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: WhatsApp/2.2335.9 N
+Accept-Language: en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-18 00:56:27
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: WhatsApp/2.2335.9 N
+Accept-Language: en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-18 00:57:34
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: WhatsApp/2.2335.9 N
+Accept-Language: en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-18 00:57:34
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: WhatsApp/2.2335.9 N
+Accept-Language: en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-18 00:57:36
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: WhatsApp/2.2335.9 N
+Accept-Language: en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-19 19:54:19
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: WhatsApp/2.2335.9 N
+Accept-Language: en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-19 19:54:19
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: WhatsApp/2.2335.9 N
+Accept-Language: en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-19 19:54:21
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 106.76.230.109
+User-Agent: WhatsApp/2.23.15.78 i
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-19 19:54:43
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 152.58.186.99
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-19 20:05:10
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.63 Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-19 20:41:44
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-19 21:03:40
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 106.206.194.147
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Mobile/15E148 Safari/604.1
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-19 22:29:43
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 106.206.194.147
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Mobile/15E148 Safari/604.1
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-19 22:30:03
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-19 22:52:49
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 157.42.2.71
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-20 01:00:50
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 152.58.135.212
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+Accept-Language: en-IN,en;q=0.9,hi-IN;q=0.8,hi;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-20 02:58:11
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-20 10:58:34
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.71.189
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: https://bat-sold-fcc-benefits.trycloudflare.com/index.html
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2023-09-20 10:58:38
+Page Visited: /WEBHOOK
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 106.79.199.191
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-01-13 08:42:31
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 152.58.212.109
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: https://www.google.com/
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-01-13 08:51:48
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 152.58.212.109
+User-Agent: WhatsApp/2.23.20.0
+Accept-Language: en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-01-13 08:52:15
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 106.79.199.191
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-01-13 09:36:34
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 203.110.242.32
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-01-13 09:36:56
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 203.110.242.32
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: https://push-metro-annotation-monkey.trycloudflare.com/index.html
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-01-13 09:40:36
+Page Visited: /WEBHOOK
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 203.110.242.32
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-01-13 09:41:30
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip, deflate
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:33:50
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3e48:f18b:7483:39f7:4593:2ef1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:35:54
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3e48:f18b:7483:39f7:4593:2ef1
+User-Agent: WhatsApp/2.24.8.83 i
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:35:58
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 103.176.136.76
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-IN;q=0.9,en-US;q=0.8,en;q=0.7,hi;q=0.6
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:36:32
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2409:40e4:6:15c2:8000::
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,hi;q=0.7
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:36:42
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:1c75:28b4:c038:64e2:186a:d2be
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:37:10
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 103.176.136.76
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-IN;q=0.9,en-US;q=0.8,en;q=0.7,hi;q=0.6
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:37:12
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:820c:6521:12bc:8661:ada6:974a
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:37:46
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:1cb0:3f26:9db6:bbd2:1220:962f
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:38:35
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 103.214.63.242
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,hi;q=0.7
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:38:52
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3e48:f18b:7483:39f7:4593:2ef1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:39:54
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:5636:f954::a30:5196
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,pt;q=0.6
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:41:55
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2405:201:6002:e189:681e:31:bcad:2c75
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,hi;q=0.7
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:45:26
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2405:201:6002:e189:681e:31:bcad:2c75
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8,hi;q=0.7
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:45:28
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 103.156.19.229
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:46:38
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2409:40d2:57:cc3:94ce:94ff:fe3a:2fcd
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:46:48
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 65.154.226.170
+User-Agent: Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+Accept-Language: N/A
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:47:04
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 205.169.39.190
+User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Accept-Language: en-US
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:48:54
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 205.169.39.190
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+Accept-Language: en-US
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:48:58
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 103.15.228.94
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:49:39
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 103.27.8.103
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/25.0 Chrome/121.0.0.0 Mobile Safari/537.36
+Accept-Language: en-GB,en,en-US,en
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:50:45
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2409:4085:9c0a:398f:892c:fbcd:7530:8025
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:50:47
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 65.154.226.166
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.132 Safari/537.36
+Accept-Language: N/A
+Referer: https://bing.com/
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:52:06
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 103.15.228.94
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:52:48
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3e48:f18b:7483:39f7:4593:2ef1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:53:00
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 103.15.228.94
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+Accept-Language: en-US,en;q=0.9
+Referer: https://lowest-jokes-personal-alberta.trycloudflare.com/index.html
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 17:53:42
+Page Visited: /WEBHOOK
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3e48:f18b:7483:39f7:4593:2ef1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15
+Accept-Language: en-IN,en-GB;q=0.9,en;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-05 18:03:53
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip, deflate
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-20 12:44:59
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:4e73:6952:f586:1ad4:1b83:a491
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-20 12:45:08
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:4e73:6952:f586:1ad4:1b83:a491
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15
+Accept-Language: en-US,en;q=0.9
+Referer: https://vampire-climate-prices-pmc.trycloudflare.com/index.html
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-05-20 12:45:58
+Page Visited: /WEBHOOK
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.76.240
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:53:43
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.76.240
+User-Agent: WhatsApp/2.23.20.0
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:53:48
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Desktop
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2402:8100:31b3:5ef1:8c53:b2ff:feab:c704
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:54:11
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2409:40e4:1051:7f8c:8000::
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,hi;q=0.6
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:54:24
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2409:40e4:1051:7f8c:8000::
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,hi;q=0.6
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:54:31
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3c85:2394:f864:9cff:fee7:f893
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:54:37
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3c85:2394:f864:9cff:fee7:f893
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-US,en;q=0.9
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:54:46
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3c85:2394:f864:9cff:fee7:f893
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-US,en;q=0.9
+Referer: https://evaluations-headphones-what-frozen.trycloudflare.com/index.html
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:55:04
+Page Visited: /WEBHOOK
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2409:40e4:1051:7f8c:8000::
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,hi;q=0.6
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:55:28
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3b1e:e807:1c23:92ff:fee9:d0f4
+User-Agent: Mozilla/5.0 (Android 14; Mobile; rv:129.0) Gecko/129.0 Firefox/129.0
+Accept-Language: en-IN
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:55:47
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.76.237
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,kn;q=0.6,hi;q=0.5
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:56:25
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 117.250.76.237
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,kn;q=0.6,hi;q=0.5
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:57:16
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2402:8100:26f9:201e:e77c:1963:b7dd:1cd
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 06:59:12
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3b22:f234:3019:fff:feaf:d778
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 07:00:27
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:3b22:f234:3019:fff:feaf:d778
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: https://evaluations-headphones-what-frozen.trycloudflare.com/index.html
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 07:00:43
+Page Visited: /WEBHOOK
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2401:4900:71cf:3579:24f1:3fff:fec9:ebea
+User-Agent: Mozilla/5.0 (Android 14; Mobile; rv:129.0) Gecko/129.0 Firefox/129.0
+Accept-Language: en-US
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 07:01:20
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2402:8100:26f9:201e:e77c:1963:b7dd:1cd
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 07:09:26
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
+IP: 2402:8100:26f9:201e:e77c:1963:b7dd:1cd
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36
+Accept-Language: en-US,en;q=0.9,hi;q=0.8
+Referer: N/A
+Connection Type: keep-alive
+Encoding: gzip
+WebGL Support: Not Supported
+WebRTC Enabled: Disabled
+Cookies Enabled: Enabled
+Screen Resolution: N/A
+IndexedDB Support: Supported
+Date and Time: 2024-08-24 07:10:32
+Page Visited: /
+Session ID: 
+Browser Version: N/A
+Browser Features: N/A
+Device Type: Mobile
+Operating System: Darwin
+Screen Size: N/A
+
+
